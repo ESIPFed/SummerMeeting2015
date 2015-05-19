@@ -1,7 +1,6 @@
 ESIP Summer Meeting
 =======
-
-This is the logistical home for the upcoming [ESIP Summer Meeting](http://commons.esipfed.org/2015SummerMeeting). 
+This is the collaborative space for the upcoming [ESIP Summer Meeting](http://commons.esipfed.org/2015SummerMeeting). 
 
 Tweeting and Social Media
 ===
