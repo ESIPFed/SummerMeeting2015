@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ESIP Summer Meeting
 =======
 This is the collaborative space for the upcoming [ESIP Summer Meeting](http://commons.esipfed.org/2015SummerMeeting). 
@@ -28,3 +29,6 @@ Submitting a Pull Request to the Website
 10. git push -u <your git username> PR-X
 11. git pull-request
 ```
+=======
+## ESIPFed.github.io
+>>>>>>> a447c1f6a53aba1bbd3beefcfceb2a4af59a6fd5
