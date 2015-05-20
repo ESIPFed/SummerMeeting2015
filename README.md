@@ -1,6 +1,6 @@
 ESIP Summer Meeting
 =======
-This is the collaborative space for the upcoming [ESIP Summer Meeting](http://commons.esipfed.org/2015SummerMeeting). 
+This is the collaborative space for the upcoming [ESIP Summer Meeting](http://esipfed.github.io/). 
 
 Other ESIP Collaboration Spaces
 ---
